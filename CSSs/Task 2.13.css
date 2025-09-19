@@ -1,0 +1,26 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  background-color: aquamarine;
+  padding: 0px 15px 0px 0px;
+  border: 1px;
+  border-color: green;
+  border-style: solid;
+}
+
+.left-block {
+  background-color: bisque;
+  padding: 20px 20px 20px 20px;
+  margin-right: 15px;
+  width: 100%;
+}
+
+.right-block {
+  background-color: gray;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+img {
+    width: 50%;
+    height: calc(width);
+  }

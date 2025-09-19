@@ -1,0 +1,19 @@
+#C8FC98
+#EAEAEA
+#FFFF80
+#FDE95E
+red
+blue
+green
+blueviolet
+darkred
+peru
+forestgreen
+indianred
+indigo фиол
+white
+aqua
+bisque ьелый
+darkgray
+limegreen
+aquamarine
